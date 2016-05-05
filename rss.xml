@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chaos ensemble]]></title>
+        <description><![CDATA[chaos ensemble]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 02:42:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We're an eclectic ensemble of artists aiming to explore the outer limits of performance, producing engaging and unpredictable works in a celebration of chaos. We focus on targeting important political and mental health issues, brought to life via our ground-breaking performance art exploring the state of humanity.</p>]]></description>
+            <link>undefinedwere-an-eclectic-ensemble-of-artists-aiming-to-explore-the/index.html</link>
+            <guid isPermaLink="false">4813b05d-af73-403c-8381-c9c8598e1bbb</guid>
+            <pubDate>Thu, 05 May 2016 02:41:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
