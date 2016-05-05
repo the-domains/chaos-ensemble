@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "We're an eclectic ensemble of artists aiming to explore the outer limits of performance, producing engaging and unpredictable works in a celebration of chaos. We focus on targeting important political and mental health issues, brought to life via our ground-breaking performance art exploring the state of humanity."
-datePublished: '2016-05-05T02:48:42.203Z'
-dateModified: '2016-05-05T02:48:40.797Z'
+datePublished: '2016-05-05T02:51:22.228Z'
+dateModified: '2016-05-05T02:51:04.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-were-an-eclectic-ensemble-of-artists-aiming-to-explore-the.md
@@ -21,9 +21,7 @@ url: were-an-eclectic-ensemble-of-artists-aiming-to-explore-the/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6072b4de-52c9-4a30-a9bf-1c73adb39d79.jpg)
-
 We're an eclectic ensemble of artists aiming to explore the outer limits of performance, producing engaging and unpredictable works in a celebration of chaos. We focus on targeting important political and mental health issues, brought to life via our ground-breaking performance art exploring the state of humanity.
 
 Based in Perth, Western Australia.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e88ddc84-6546-4252-a534-6cb565e1dfd2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23b23f7-ea31-41e8-bf1b-4f57d136601b.jpg)
