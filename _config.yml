@@ -1,6 +1,6 @@
 name: chaos ensemble
 favicon: null
-layout_spectrum: 0.95499
+layout_spectrum: 0.74722
 typography_spectrum: 0.60498
 title: chaos ensemble
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#00001c'
-    - '#eec899'
-    - '#4d3449'
-    - '#bd8574'
-    - '#feeab5'
+    - '#f2f2f2'
+    - '#000000'
+    - '#656565'
+    - '#424242'
+    - '#bababa'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0
   saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
