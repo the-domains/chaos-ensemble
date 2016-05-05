@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[chaos ensemble]]></title>
         <description><![CDATA[chaos ensemble]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chaos-ensemble/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 02:42:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 02:46:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chaos-ensemble/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We're an eclectic ensemble of artists aiming to explore the outer limits of performance, producing engaging and unpredictable works in a celebration of chaos. We focus on targeting important political and mental health issues, brought to life via our ground-breaking performance art exploring the state of humanity.</p>]]></description>
-            <link>undefinedwere-an-eclectic-ensemble-of-artists-aiming-to-explore-the/index.html</link>
+            <link>https://thegrid.ai/chaos-ensemble/were-an-eclectic-ensemble-of-artists-aiming-to-explore-the/index.html</link>
             <guid isPermaLink="false">4813b05d-af73-403c-8381-c9c8598e1bbb</guid>
-            <pubDate>Thu, 05 May 2016 02:41:23 GMT</pubDate>
+            <pubDate>Thu, 05 May 2016 02:46:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
