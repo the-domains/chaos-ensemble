@@ -2,6 +2,7 @@ name: chaos ensemble
 favicon: null
 layout_spectrum: 0.5846239845268428
 typography_spectrum: 0.7097730266395956
+title: chaos ensemble
 cta:
   domain: null
   bucket: null
